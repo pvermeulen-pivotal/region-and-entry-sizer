@@ -7,7 +7,7 @@
 	<version>1.0.0.RELEASE</version>
 
 	<properties>
-		<gemfire_version>9.7.0</gemfire_version>
+		<gemfire_version>9.6.0</gemfire_version>
 	</properties>
 
 	<build>
