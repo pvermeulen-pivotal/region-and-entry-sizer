@@ -1,6 +1,6 @@
 ## Geode V9 Sizer ##
 
-This package provides three (3) functions for sizing of Geode indexes, region entries and region   
+This package provides three (3) functions used to determine the size of Geode indexes, region entries and region   
 
 ### Functions ###
 
