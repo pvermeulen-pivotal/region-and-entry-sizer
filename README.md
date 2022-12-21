@@ -1,4 +1,4 @@
-## Sizer ##
+## Region and Entry Sizer ##
 
 This package provides three (3) functions used to determine the size of Geode indexes, region entries and region   
 
